@@ -29,7 +29,7 @@
     height: 8vh;
     width: 100%;
     border-radius: 10px;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(218, 218, 218);
 }
 
 .logo {
