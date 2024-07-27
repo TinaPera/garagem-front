@@ -26,17 +26,19 @@
 .header {
     display: flex;
     justify-content: space-between;
-    height: 8vh;
+    height: 10vh;
     width: 100%;
-    border-radius: 10px;
-    background-color: rgb(218, 218, 218);
+    border-radius: 5px;
+    background-color:  rgb(231, 162, 248);
 }
 
 .logo {
     display: flex;
     width: 15%;
     align-items: center;
-    font-size: 2em;
+    font-size: 1.8em;
+    color: white;
+    padding: 5px;
 }
 
 img {
@@ -48,14 +50,16 @@ img {
     align-items: center;
     justify-content: space-between;
     display: flex;
-    font-size: 1.4em;
+    font-size: 1em;
     width: 35%;
+    color: white;
 }
 
 .login {
     display: flex;
     align-items: center;
-    font-size: 1.2em;
+    font-size: 1em;
+    color: white;
 }
 
 .link {
@@ -64,10 +68,11 @@ img {
 }
 
 .link:hover {
-    color: rgb(26, 26, 26);
+    color: rgb(0, 0, 0);
 }
 
 .menu-hamburguer {
     display: none;
 }
+
 </style>

@@ -34,15 +34,15 @@ const menuAberto = ref(false);
     .header {
         display: flex;
         justify-content: space-between;
-        background-color: rgb(230, 230, 230);
-        border-radius: 10px;
+        background-color:  rgb(231, 162, 248);
+        border-radius: 5px;
     }
 
     .menu {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        border-radius: 10px;
+        border-radius: 5px;
         height: 80vh;
         width: 96%;
         margin-top: 2%;

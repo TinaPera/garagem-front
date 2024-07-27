@@ -19,8 +19,8 @@
     justify-content: center;
     position: absolute;
     bottom: 0%;
-    background-color: rgb(230, 230, 230);
-    border-radius: 10px;
+    background-color: rgb(231, 162, 248);
+    border-radius: 5px;
     width: 99.2%;
     height: 8vh;
 }
@@ -32,11 +32,12 @@
     justify-content: center;
     align-items: center;
     gap: 4rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
+    color: white;
 }
 
 .infos {
-    color: inherit;
+    color: white;
     text-decoration: none;
 }
 </style>
